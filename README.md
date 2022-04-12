@@ -8,6 +8,8 @@ Nowadays, I'm focusing on Monitoring and Observability tools and procedures on d
  
 Automation is my passion, and after many years developing shell scripts on different interpreted languages like Python, Powershell or Bash among others, I would like to address my career on professional profiles related to automated solutions and doing it in an international and multicultural environment.
 
+If you want to know a little bit more about me, you can check my [linkedin](https://www.linkedin.com/in/juliojimenezdelgado/).
+
 <!--
 **jouleSoft/jouleSoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
